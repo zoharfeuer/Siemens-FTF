@@ -67,13 +67,5 @@ The following libraries are required to run this project:
 4. The 'final_pred.csv' file contains the predictions made by the models.
 5. To view the visualizations, run the 'visualization.py' script.
 
-## Contributors
 
-- [Your Name]
-
-Feel free to contribute to this project by adding more features, improving the models, or enhancing the visualizations.
-
-**Note:** This README assumes that you have Python and the required libraries installed. If not, please install them before running the scripts.
-
----
 *This project is for educational purposes and simulated data. It does not represent real-world scenarios.*
